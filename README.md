@@ -25,9 +25,12 @@ A simple User Management System that allows users to add, edit, delete, and view
 
  # Screenshots 
  **Full Web Page**
- ![Image](https://github.com/user-attachments/assets/9f2928d5-73f5-4b2a-9d08-b432fdd9c104)
+ ![Image](https://github.com/user-attachments/assets/9f2928d5-73f5-4b2a-9d08-b432fdd9c104)<br>
  **Update User**
- ![Image](https://github.com/user-attachments/assets/462b6ff6-aa37-4897-bca3-4d01ac605d9c)
- ![Image](https://github.com/user-attachments/assets/8b1e1d8b-f08b-461c-bb8c-a12fd3930bdd)
- ![Image](https://github.com/user-attachments/assets/12144f40-2bc3-45f0-a13c-85ef51cf6ff2)
+ ![Image](https://github.com/user-attachments/assets/462b6ff6-aa37-4897-bca3-4d01ac605d9c)<br>
+**Add New Member**
+ ![Image](https://github.com/user-attachments/assets/8b1e1d8b-f08b-461c-bb8c-a12fd3930bdd)<br>
+ **Search Bar**
+ ![Image](https://github.com/user-attachments/assets/12144f40-2bc3-45f0-a13c-85ef51cf6ff2)<br>
+ **Actions : View, Edit, Delete**
  ![Image](https://github.com/user-attachments/assets/a3b6c9fe-817e-42a0-9892-c0807be9cc9e)
