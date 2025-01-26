@@ -16,11 +16,9 @@ A simple Employee Management System that allows users to add, edit, delete, and 
   **JavaScript:** For managing the functionality such as form submissions, pagination, data filtering, and CRUD operations.<br>
   **LocalStorage:** For persisting employee data locally in the browser.<br>
 
-  # Installation
-
-  Follow these steps to get your development environment up and running.<br>
-  **Clone the repository** <br>
-  
-   git clone "https://github.com/your-username/employee-management-system.git" <br>
-   cd employee-management-system
-
+  # Usage
+ **Adding Employees:** Click the "Add New Employee" button, fill in the details, and click "Submit".<br>
+ **Editing Employees:** Click the "Edit" button next to an employee's entry to modify their details.<br>
+ **Deleting Employees:** Click the "Delete" button next to an employee's entry to remove them from the system.<br>
+ **Pagination:** Use the pagination controls to navigate between pages of employee data.<br>
+ **Search Function:** Use the search bar to filter employee records based on name, city, or position<br>
