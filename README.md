@@ -18,9 +18,9 @@ A simple Employee Management System that allows users to add, edit, delete, and 
 
   # Installation
 
-  Follow these steps to get your development environment up and running.
-  **Clone the repository**
+  Follow these steps to get your development environment up and running.<br>
+  **Clone the repository** <br>
   
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone "https://github.com/your-username/employee-management-system.git" <br>
    cd employee-management-system
 
