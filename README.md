@@ -24,3 +24,4 @@ A simple User Management System that allows users to add, edit, delete, and view
  **Search Function:** Use the search bar to filter employee records based on name, city, or position<br>
 
  # Screenshots 
+ ![Image](https://github.com/user-attachments/assets/9f2928d5-73f5-4b2a-9d08-b432fdd9c104)
