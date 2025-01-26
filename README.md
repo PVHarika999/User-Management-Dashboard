@@ -2,12 +2,12 @@
 A simple Employee Management System that allows users to add, edit, delete, and view employee details such as name, position, salary, and contact information. The application uses localStorage to store data and supports pagination for better data management.
 
 # Features
-**Add Employee**: Easily add new employee details, including a profile picture.
-**Edit Employee**: Update existing employee information.
-**Delete Employee**: Remove an employee from the list.
-**Pagination**: View employee data in pages with navigation controls.
-**Search**: Filter employees based on name, position, or city.
-**Profile View**: View detailed employee profiles with editable fields.
+**Add Employee**: Easily add new employee details, including a profile picture.< br / >
+**Edit Employee**: Update existing employee information. < br / >
+**Delete Employee**: Remove an employee from the list.< br / >
+**Pagination**: View employee data in pages with navigation controls. < br / >
+**Search**: Filter employees based on name, position, or city. < br / >
+**Profile View**: View detailed employee profiles with editable fields. < br / >
 
 # Technologies Used
 
